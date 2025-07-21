@@ -36,7 +36,6 @@ Your personal AI-powered assistant for smart interview preparation, built using 
 - Multer (image upload)
 
 ---
-🌟 Found It Helpful?
 If this project helped you, show some love:
 ⭐ Star this repo and share it with your developer circle!
 ---
