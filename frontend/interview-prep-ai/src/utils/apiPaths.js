@@ -1,5 +1,5 @@
 // BASE URL
-export const BASE_URL = 'prepmate-ai-backend-g7q0.onrender.com';
+export const BASE_URL = 'http://localhost:8000';
 
 // API ENDPOINT PATHS
 export const API_PATHS = {
