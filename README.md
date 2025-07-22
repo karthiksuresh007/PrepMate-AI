@@ -4,7 +4,6 @@ Your personal AI-powered assistant for smart interview preparation, built using 
 
 🌐 **Live Demo**  
 - 🔥 Frontend: [prep-mate-ai-black.vercel.app](https://prep-mate-ai-black.vercel.app)  
-- ⚙️ Backend: [prepmate-ai-backend-g7q0.onrender.com](https://prepmate-ai-backend-g7q0.onrender.com)
 
 ---
 
