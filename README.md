@@ -1,7 +1,10 @@
 # 🧠 PrepMate-AI – MERN + Gemini API
 
-Your personal AI-powered assistant for smart interview preparation, built using the **MERN stack** and **Gemini API**. Prep like a pro with role-based questions, AI explanations, session saving, pinning, and more.
+Your personal AI-powered assistant for smart interview preparation, built using the MERN stack and Gemini API. Prep like a pro with role-based questions, AI explanations, session saving, pinning, and more.
 
+🌐 **Live Demo**  
+- 🔥 Frontend: [prep-mate-ai-black.vercel.app](https://prep-mate-ai-black.vercel.app)  
+- ⚙️ Backend: [prepmate-ai-backend-g7q0.onrender.com](https://prepmate-ai-backend-g7q0.onrender.com)
 
 ---
 
@@ -20,23 +23,24 @@ Your personal AI-powered assistant for smart interview preparation, built using 
 
 ## 💻 Tech Stack
 
-**Frontend:**  
+**Frontend:**
 - React.js  
 - Tailwind CSS  
 - React Router  
 - Context API  
 - Axios  
 
-**Backend:**  
+**Backend:**
 - Node.js  
 - Express.js  
 - MongoDB + Mongoose  
 - Gemini API  
 - JWT Auth  
-- Multer (image upload)
+- Multer (image upload)  
 
 ---
-If this project helped you, show some love:
-⭐ Star this repo and share it with your developer circle!
----
-Crafted with 💙 by @karthiksuresh007
+
+If this project helped you, show some love:  
+⭐ **Star this repo** and share it with your developer circle!
+
+Crafted with 💙 by [@karthiksuresh007](https://github.com/karthiksuresh007)
